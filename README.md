@@ -9,8 +9,6 @@
 
 ## Hello there :wave:
 
-Learning in progress
-
 ### Stack
 
 <div align="center">
