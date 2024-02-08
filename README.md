@@ -11,7 +11,9 @@
 
 ### Stack
 
-#### Languages and Frameworks:
+<div align="center">
+  <h4>Languages and Frameworks:</h4>
+</div>
 <div align="center">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,7 +27,9 @@
   
 </div>
 
-#### Databases:
+<div align="center">
+  <h4>Databases:</h4>
+</div>
 <div align="center">
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,7 +38,9 @@
 
 </div>
 
-#### Api Documentations:
+<div align="center">
+  <h4>Api Documentation:</h4>
+</div>
 <div align="center">
 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -42,7 +48,9 @@
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 </div>
 
-#### CI/CD, Cloud and Observability:
+<div align="center">
+  <h4>CI/CD, Cloud and Observability:</h4>
+</div>
 <div align="center">
 
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,7 +60,9 @@
   ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 </div>
 
-#### Version Control:
+<div align="center">
+  <h4>Version Control:</h4>
+</div>
 <div align="center">
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +71,9 @@
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 </div>
 
-#### Scrum and Kanban:
+<div align="center">
+  <h4>Scrum and Kanban Tools:</h4>
+</div>
 <div align="center">
 
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
