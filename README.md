@@ -9,7 +9,7 @@
 
 ## Hello there :wave:
 
-### Stack
+### My Stack
 
 <div align="center">
   <h4>Languages and Frameworks:</h4>
